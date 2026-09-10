@@ -41,9 +41,6 @@ body {
 }
 
 @media screen and (max-width: 720px) {
-  body h1 {
-    font-weight : small;
-  }
   .hidder {
     height: 5.1vh;
   }
