@@ -19,7 +19,7 @@ body {
 body h1 {
   padding: 15px;
   text-align: center;
-  font-size: bold;
+  font-weight: bold;
   text-decoration: underline;
 }
 
