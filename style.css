@@ -17,6 +17,7 @@ body {
   overflow: hidden;
 }
 body h1 {
+  padding: 15px;
   text-align: center;
   font-size: bold;
   text-decoration: underline;
